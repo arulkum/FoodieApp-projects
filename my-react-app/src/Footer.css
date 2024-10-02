@@ -1,0 +1,26 @@
+footer {
+    background-color: black
+  }
+  
+  footer h5 {
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  
+  footer a {
+    color: #343a40;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    color: #ff3f6c;
+  }
+  
+  footer .fab {
+    font-size: 20px;
+  }
+  
+  footer .fab:hover {
+    color: #ff3f6c;
+  }
+  
